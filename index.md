@@ -1,4 +1,3 @@
-# Welcome to my blog
 
 ## My name is David Tetreau. I am an aspiring Web Developer.
 
