@@ -1,5 +1,5 @@
 <figure class="image">
-  <img src="https://live.staticflickr.com/3313/3481540500_c846c62863_b.jpg" width="200" alt="kitten looking into a fish bowl" style="float:left" align="center"/>
+  <img src="https://live.staticflickr.com/3313/3481540500_c846c62863_b.jpg" width="200" alt="kitten looking into a fish bowl" align="center"/>
   <figcaption>'"Cat Fish 2" by admiller is licensed under CC BY 2.0'</figcaption>
 </figure>
 
