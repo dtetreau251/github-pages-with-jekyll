@@ -1,4 +1,4 @@
-![cat looking into fishbowl](https://live.staticflickr.com/3313/3481540500_c846c62863_b.jpg)
+[cat looking into fish bowl] <img src="https://live.staticflickr.com/3313/3481540500_c846c62863_b.jpg" width="50"/>
 "Cat Fish 2" by admiller is licensed under CC BY 2.0
 
 
